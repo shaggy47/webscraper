@@ -10,6 +10,7 @@ namespace DriverProgram
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello there, this is a new web scraping tool.");
         }
     }
 }

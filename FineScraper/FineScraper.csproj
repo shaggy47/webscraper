@@ -49,7 +49,6 @@
     <Compile Include="Core\Interfaces\IExtractor.cs" />
     <Compile Include="Core\Interfaces\IInputHandler.cs" />
     <Compile Include="Core\Interfaces\IResultGenerator.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
